@@ -18,3 +18,7 @@ Open `index.html` in a web browser.
 4. Wait for GitHub Pages to publish the site.
 
 The site uses plain HTML, CSS and JavaScript; no build tools are required.
+
+## Repository
+
+https://github.com/Ashish-kumar-ds/Web-Technology-Notes
