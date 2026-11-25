@@ -1,5 +1,7 @@
 # Web Technology Study Hub
 
+**Live Website:** [Open Web Study Hub](https://ashish-kumar-ds.github.io/Web-Technology-Notes/)
+
 A responsive, unit-wise Web Technology notes website for CS35302.
 
 ## Files
